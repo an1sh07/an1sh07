@@ -8,10 +8,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/an1sh07/an1sh07/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">I Work With:</p>
 
 ###
